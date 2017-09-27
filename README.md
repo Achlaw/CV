@@ -17,12 +17,22 @@ I first discovered the world of coding at the age of 13 through an article about
 | [Thermostat](https://github.com/Achlaw/thermostat_js) | A simple thermostat interface for adjusting temperature.  Made with Javascript, HTML and CSS. | [Try It](http://htmlpreview.github.io/?https://github.com/Achlaw/thermostat_js/blob/master/index.html) |
 | [SunInformed](https://github.com/JayWebDevCom/Sunny-App) | Basic weather app made in a team of four using React Native. | N/A |
 
+## Skills
 
-## Skills ##
-…
+### Communication
+
+Good communication is essential in work and in life.  Problems often result from poor and unclear communication.  I find this skill vital especially in pair programming and in teamwork to make sure your partner and your teammates know exactly what needs to be done and what your opinions are on the tasks at hand.  I have used this skill in my work experience to help customers know that I am there to help them.  A positive attitude shows a willingness to help.
+
+### Teamwork
+
+Being able to work well in a team is important especially if members of your team are not your friends.  The main goal of a team is to get tasks done together.  Having the ability to put your team first and showing respect for all the different opinions with clear communication is essential to a good team.  Having pair programmed with a variety of people and working in different teams throughout my work experience I have a deeper understanding in what an efficient team is like.
+
+### Self motivation
+
+Quite often I am left with tasks and problems to solve on my own.  To tackle these issues I will research different approaches or possible solutions to solve the problems or tasks.  In most situations I am put out of my comfort zone in managing how I handle problems that are not in my favour.  I will try my best of my ability to deal with these problems.  In learning to code I discovered the best way to learn is to challenge myself.
 
 
-## Education ##
+## Education
 
 #### London Metropolitan University
 2006 – 2009
@@ -36,7 +46,8 @@ A Levels: Art, Business and Maths
 1998 – 2003
 GCSE: 11 A – C including English and Maths
 
-## Experience ##
+
+## Experience
 #### Swire Coca-Cola HK
 May 2015
 
@@ -74,7 +85,8 @@ A small local IT training centre.  Worked independently assisting in various off
 -   Corrected spelling mistakes in letters and applications.
 -   Filtered and grouped large piles of hard copy files into correct categories.
 
-## Interests ##
+## Interests
+
 Cycling
 
 Gaming (Computer based, board games and miniatures.
