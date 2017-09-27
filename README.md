@@ -1,6 +1,5 @@
 ## Alex Law
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
-
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 Looking for opportunities to expand my horizons and develop new skills.  My degree in Multimedia has enabled me to develop good organisation and communication skills and the ability to work well under pressure.
 
@@ -37,9 +36,47 @@ A Levels: Art, Business and Maths
 1998 – 2003
 GCSE: 11 A – C including English and Maths
 
+## Experience ##
+#### Swire Coca-Cola HK
+May 2015
 
-## Hobbies and interests ##
+
+**Customer Service and Sales**
+
+The first point of contact with customers providing accurate information about company products, procedures and policies.  Worked as part of a team to perform tasks and achieve goals.·  Relayed exact customer purchase details accurately to logistics team.
+-   Managed highly uncooperative customers as a representative of the manager.
+-   Created final printouts of all product orders for next day delivery.
+-   Problem solved a variety of customer issues and queries.
+-   Introduced and created database for new customers.
+
+#### GameLab London
+May 2007
+
+
+**Multimedia and IT assistant**
+
+Part of a small digital multimedia group working on creating interactive multimedia applications for children and people with disabilities.
+-   Learnt basics of a programming language called LSL for an online virtual world.
+-   Created simple scripts for objects inside the virtual world.
+-   Managed a project for building a virtual office.
+-   Archived an entire library of audio CDs into an external hard drive.
+-   Upgraded and relocated office computers to different parts of the building.
+
+#### Hawley House
+March 2005
+
+
+**Office Assistant**
+
+A small local IT training centre.  Worked independently assisting in various office duties and reporting directly to the head employer.
+-   Created and maintained databases on Microsoft Excel and Access.
+-   Data entry of customer details.
+-   Corrected spelling mistakes in letters and applications.
+-   Filtered and grouped large piles of hard copy files into correct categories.
+
+## Interests ##
 Cycling
-Gaming
-Gunpla (The art of plastic mecha model building and painting.)
 
+Gaming (Computer based, board games and miniatures.
+
+Gunpla (The art of plastic mecha model building and painting.)
