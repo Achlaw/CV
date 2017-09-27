@@ -89,6 +89,6 @@ A small local IT training centre.  Worked independently assisting in various off
 
 Cycling
 
-Gaming (Computer based, board games and miniatures.
+Gaming (Computer based, board games and miniatures.)
 
 Gunpla (The art of plastic mecha model building and painting.)
