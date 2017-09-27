@@ -9,18 +9,19 @@ I first discovered the world of coding at the age of 13 through an article about
 As of April 2017 I will begin my journey through a 12 week intensive course at Makers Academy.  My goal is to gain the necessary skills and knowledge from knowing little to no knowledge of coding into becoming a junior web developer.
 
 
-## Projects ##
-…
+## Projects
 
+| Name  | Summary | Preview |
+| ------------- | ------------- | ------------- |
+| [Colour Game](https://github.com/Achlaw/js_colour_game)   | A RGB colour game made with Javascript, HTML and CSS.  | [Try It](http://htmlpreview.github.io/?https://github.com/Achlaw/js_colour_game/blob/master/colour_game.html) |
+| [Score Keeper](https://github.com/Achlaw/js_score_keeper) | Basic score keeper to keep track of current scores.  Made with Javascript, HTML and CSS.  | [Try It](http://htmlpreview.github.io/?https://github.com/Achlaw/js_score_keeper/blob/master/score_keeper.html) |
+| [Thermostat](https://github.com/Achlaw/thermostat_js) | A simple thermostat interface for adjusting temperature.  Made with Javascript, HTML and CSS. | [Try It](http://htmlpreview.github.io/?https://github.com/Achlaw/thermostat_js/blob/master/index.html) |
+| [SunInformed](https://github.com/JayWebDevCom/Sunny-App) | Basic weather app made in a team of four using React Native. | N/A |
 
 ## Skills ##
 …
 
 ## Education ##
-
-#### Makers Academy
-2017
-…
 
 #### London Metropolitan University
 2006 – 2009
