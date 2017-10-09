@@ -12,7 +12,8 @@ I first discovered the world of coding at the age of 13 through an article about
 
 | Name  | Summary | Preview |
 | ------------- | ------------- | ------------- |
-| [Colour Game](https://github.com/Achlaw/js_colour_game)   | A RGB colour game made with Javascript, HTML and CSS.  | [Try It](https://secure-river-48464.herokuapp.com/) |
+| [Colour Game](https://github.com/Achlaw/js_colour_game) | A RGB colour game made with Javascript, HTML and CSS.  | [Try It](https://secure-river-48464.herokuapp.com/) |
+| [To Do List](https://github.com/Achlaw/js_to_do_list) | A to do list made using jQuery, Javascript, HTML and CSS. | [Try It](http://htmlpreview.github.io/?https://github.com/Achlaw/js_to_do_list/blob/master/index.html) |
 | [Score Keeper](https://github.com/Achlaw/js_score_keeper) | Basic score keeper to keep track of current scores.  Made with Javascript, HTML and CSS.  | [Try It](https://still-everglades-88739.herokuapp.com/) |
 | [Thermostat](https://github.com/Achlaw/thermostat_js) | A simple thermostat interface for adjusting temperature.  Made with Javascript, HTML and CSS. | [Try It](http://htmlpreview.github.io/?https://github.com/Achlaw/thermostat_js/blob/master/index.html) |
 | [SunInformed](https://github.com/JayWebDevCom/Sunny-App) | Basic weather app made in a team of four using React Native. | N/A |
