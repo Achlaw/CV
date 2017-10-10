@@ -1,5 +1,5 @@
 ## Alex Law
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 Looking for opportunities to expand my horizons and develop new skills.  My degree in Multimedia has enabled me to develop good organisation and communication skills and the ability to work well under pressure.
 
@@ -93,3 +93,8 @@ Cycling
 Gaming (Computer based, board games and miniatures.)
 
 Gunpla (The art of plastic mecha model building and painting.)
+
+## Contact
+
+achlawuk@gmail.com
++44 7894901982
